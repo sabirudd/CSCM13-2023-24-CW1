@@ -1,0 +1,10 @@
+project Main is
+
+   for Main use ("main.adb", "main.adb") & project'Main;
+
+   package Compiler is
+      for Switches ("ada") use ("-gnato33");
+   end Compiler;
+
+end Main;
+
