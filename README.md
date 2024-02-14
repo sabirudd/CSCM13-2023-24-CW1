@@ -1,6 +1,6 @@
 `29/10/2023 - 03/11/2023`
 
-# CSCM13 Critical Systems (2023/24) Coursework 1
+# CSCM13 - Critical Systems (2023/24) Coursework 1
 Simple program using SPARK Ada with verification and validation conditions <br />
 
 **Question 1** - Calculate the sum of two numbers (both 3 digits, 0-999) and omit the 4th number if sum is more than 1000. <br />
